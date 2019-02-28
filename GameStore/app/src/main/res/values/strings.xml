@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GameStore</string>
+    <string name="todo">TODO</string>
+    <string name="game1">game1</string>
+    <string name="adventure">Adventure</string>
+    <string name="bubsy_the_woolies_strike_back">Bubsy : The Woolies Strike Back</string>
+    <string name="genre">Genre</string>
+    <string name="description">Description</string>
+    <string name="descmage">TODO</string>
+    <string name="buy">BUY</string>
+</resources>
